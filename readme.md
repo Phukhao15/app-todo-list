@@ -20,7 +20,7 @@
 ## 🔧 การติดตั้ง (Install)
 
 
-git clone https://github.com/Phukhao15/app-todo-list.git
-cd todo-app
-npm install
-npm run dev
+- git clone https://github.com/Phukhao15/app-todo-list.git
+- cd todo-app
+- npm install
+- npm run dev
